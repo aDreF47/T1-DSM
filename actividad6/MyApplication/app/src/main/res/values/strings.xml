@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Fernando David</string>
+    <string name="social_media_text">\@FernandoCeladita</string>
+    <string name="email_text">fernando@dev.com</string>
+    <string name="number_phone_txt">+51 999 999 999</string>
+    <string name="profetion_text">Desarrollador Android Extraordinaire</string>
+    <string name="description_logo">Logotipo de Android</string>
+
+</resources>
