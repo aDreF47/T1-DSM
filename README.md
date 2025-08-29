@@ -7,6 +7,7 @@ Este repositorio contiene las soluciones completas de las actividades **3, 4, 5 
 - **Actividad 4**: Tarjeta de cumpleaños con imagenes, `Box`, `Column`, `Image` y `Text`.
 - **Actividad 5**: Desarrollo de 3 ejercicios: articulo, administrador de tareas, cuadrante de compose.
 - **Actividad 6**: Proyecto de creacion de app de tarjeta de presentación
+- **Cuestionario Resuelto**
 
 ## 🧩 Recursos
 - Codelabs oficiales de Google:  
