@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="Lorem_Text_1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="Lorem_Text_2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="Lorem_Text_3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="Lorem_Text_4">A layout composable that places its children in a vertical sequence.</string>
+    <string name="text_composable">Text composable</string>
+    <string name="image_composable">Image composable</string>
+    <string name="row_composable">Row composable</string>
+    <string name="column_composable">Column composable</string>
+</resources>
