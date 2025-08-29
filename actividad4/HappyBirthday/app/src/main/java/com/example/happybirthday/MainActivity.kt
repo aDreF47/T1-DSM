@@ -83,8 +83,6 @@ fun GreetingImage(message: String, from: String, modifier: Modifier = Modifier) 
             contentDescription = null,
             contentScale = ContentScale.Crop, //escala imagen
             alpha = 0.5F //opacidad
-            //modifier = Modifier.fillMaxSize()  // o size(200.dp)
-
         )
         GreetingText(
             message = message,
